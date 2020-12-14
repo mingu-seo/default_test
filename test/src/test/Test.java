@@ -10,7 +10,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		String name2 = "유승현";
-		System.out.println(name2);
+		System.out.println(name2+"반갑습니다.");
 		System.out.println("Test");
 		
 		final int a;
