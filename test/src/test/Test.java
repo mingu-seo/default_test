@@ -14,6 +14,7 @@ public class Test {
 		final int a;
 		
 		a = 30;
+		System.out.println(a);
 		
 	}
 }
