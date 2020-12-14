@@ -12,9 +12,14 @@ public class Test {
 		System.out.println("Test");
 		
 		final int a;
+		final int b;
+		final int c;
 		
 		a = 30;
-		System.out.println(a);
+		b = 50;
+		c = a+b;
+				
+		System.out.println(c);
 		
 	}
 }
